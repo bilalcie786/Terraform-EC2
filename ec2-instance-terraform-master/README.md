@@ -1,6 +1,6 @@
-# Create a EC2 Instance using Terraform
+# Create large numbers of  EC2 Instance using Terraform 
 
-This is sample script for how to create a EC2 instance using terraform.
+This is sample script for how to create large number of EC2 instance using terraform.
 
 ## Getting Started
 
